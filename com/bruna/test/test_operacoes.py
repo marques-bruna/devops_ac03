@@ -7,5 +7,5 @@ def test_positivo():
 def test_negativo():
 	assert func(-15) == -7
     
- def test_zero():
+def test_zero():
 	assert func(0) == 8
